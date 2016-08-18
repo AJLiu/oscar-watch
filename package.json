@@ -1,0 +1,23 @@
+{
+  "name": "oscar-watch",
+  "version": "1.0.0",
+  "description": "watches changes in gt oscar classes",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJLiu/oscar-watch.git"
+  },
+  "author": "ajliu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AJLiu/oscar-watch/issues"
+  },
+  "homepage": "https://github.com/AJLiu/oscar-watch#readme",
+  "bin": {
+    "oscar": "./index.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "twilio": "^2.9.2"
+  }
+}

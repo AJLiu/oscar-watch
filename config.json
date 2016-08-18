@@ -1,0 +1,7 @@
+{
+  "SID": "Put your Twilio SID here",
+  "Token": "Put your Twilio Auth Token here",
+  "PhoneNumber": "Put your phone number here",
+  "TwilioNumber": "Put your Twilio phone number here",
+  "WatchList": []
+}
