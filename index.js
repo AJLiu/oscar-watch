@@ -216,7 +216,7 @@ if (args[0]) {
           if (err)
             console.error(err);
         });
-      }, 3000);
+      }, 300000);
     }
     return;
   }
